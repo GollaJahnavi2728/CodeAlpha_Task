@@ -1,0 +1,93 @@
+
+# 📘 Student Grade Tracker – CodeAlpha Internship Task 1
+
+A console-based Java application that allows users to input student details and grades, calculate performance metrics, and display summary reports. Developed as part of the CodeAlpha Java Internship.
+
+---
+
+## ✅ Task Details
+
+- **Internship Program:** Java Programming Internship  
+- **Organization:** CodeAlpha  
+- **Task Number:** 1  
+- **Task Title:** Student Grade Tracker  
+- **Completion Status:** ✅ Completed  
+- **Technology Used:** Java (JDK 8+)
+
+---
+
+## 🎯 Features
+
+- Add multiple student names and grades
+- Calculate:
+  - Average grade
+  - Highest and Lowest grade
+  - Total number of students
+- Display a summary report in the console
+- Easy-to-use, menu-driven system
+- Error-free input handling
+
+---
+
+## 🧰 Tech Stack
+
+- Java (Core)
+- JDK 8 or above
+- CLI / Terminal (no GUI)
+
+---
+
+## 🚀 How to Run the Program
+
+1. Clone the repository or download the `.java` file.
+2. Open a terminal/command prompt and navigate to the file directory.
+3. Compile the Java file using:
+   ```bash
+   javac GradeTracker.java
+   ```
+4. Run the program:
+   ```bash
+   java GradeTracker
+   ```
+5. Follow the prompts in the console to input data and view the report.
+
+
+
+## 📂 File Structure
+
+```
+TASK-1/
+├── StudentGradeTracker.java
+├── README.md
+```
+
+---
+
+## 📚 What I Learned
+
+- Solidified my understanding of Java fundamentals
+- Practiced array and loop handling for real-time data entry
+- Improved structured programming and modular logic
+- Gained hands-on experience in writing CLI-based Java applications
+
+---
+
+## 🧑‍💻 Author
+
+**Name:** [Golla Jahnavi]  
+**LinkedIn:** []  
+**GitHub:** [Your GitHub URL]  
+**Email:** [gollajahnavi2728@gmail.com]
+
+---
+
+## 🏁 Acknowledgments
+
+This project was completed as part of the **Java Internship at CodeAlpha**.  
+I’m thankful for the structured learning experience and the opportunity to build meaningful Java applications from scratch.
+
+---
+
+## 📌 Tags
+
+`#Java` `#CodeAlpha` `#InternshipTask1` `#StudentGradeTracker` `#JavaDeveloper` `#ConsoleApp` `#JavaProjects`
